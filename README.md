@@ -1,5 +1,5 @@
 <h2 align="center">
-Olá Mundo! <br>
+Olá Mundo!👋🏾  <br>
 </h2> 
 <div align="center">
   <img border-radius="3px" height="250px" alt="Paloma-GIF" src="sorriso.gif" >
