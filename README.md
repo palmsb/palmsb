@@ -6,7 +6,7 @@ Olá Mundo!👋🏾  <br>
 </div>
 <p align="center">
   <br>
-  Me chamo Paloma, tenho 23 anos e sou de Salvador/Bahia. <br>
+  Me chamo Paloma, tenho 24 anos e sou de Salvador/Bahia. <br>
   Sou <strong>Bacharel em Ciências e Tecnologia</strong> e atual discente no curso de <strong>Sistemas de Informação</strong>. <br>
   <br>
   Além da graduação em progresso, busco  sempre me aprofundar e colher toda oportunidade que possa contribuir para construir meu caminho rumo a carreira de desenvolvedora.
