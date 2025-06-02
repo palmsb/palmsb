@@ -10,7 +10,7 @@ Olá Mundo!👋🏾  <br>
   Sou <strong>Bacharel em Ciências e Tecnologia</strong> e atual discente no curso de <strong>Sistemas de Informação</strong>. <br>
   <br>
   Além da graduação em progresso, busco  sempre me aprofundar e colher toda oportunidade que possa contribuir para construir meu caminho rumo a carreira de desenvolvedora.
-  Assim, estudo de forma individual realizando cursos e participando de bootcamps, que confio que podem alavancar o meu potencial e concretizar meu sonho que também é meu objetivo: ingressar na área de tecnologia. 
+  Assim, estudo de forma individual realizando cursos e participando de bootcamps, que confio que podem alavancar o meu potencial e concretizar meu sonho que também é meu objetivo: itrilhar uma carreira na área de tecnologia. 
 </p>
 
 ##
