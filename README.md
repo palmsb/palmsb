@@ -1,9 +1,6 @@
 <h2 align="center">
 Olá Mundo!👋🏾  <br>
 </h2> 
-<div align="center">
-  <img border-radius="3px" height="250px" alt="Paloma-GIF" src="novogif.gif" >
-</div>
 <p align="center">
   <br>
     Me chamo Paloma, tenho 25 anos e sou de Salvador, Bahia. <br>
